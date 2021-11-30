@@ -1,2 +1,2 @@
 # igw-project
-IT project for lyceum
+IT project for HSE lyceum
